@@ -1,0 +1,7 @@
+How to unzip .rar file in Ubuntu 18.02 LTS:
+ - Use unrar application
+Since unrar is not a default application in Ubuntu, you will need to install it first:
+==> sudo apt-get install unrar
+ - When unrar is installed:
+unrar x filename.rar
+
